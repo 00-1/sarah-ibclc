@@ -22,6 +22,8 @@ sidebar:
     text: "More text here."
 ---
 
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
 # Hello
 
 ## ARE YOU LOOKING FOR BREASTFEEDING SUPPORT, CHESTFEEDING HELP, OR ASSISTANCE WITH INFANT FEEDING?
@@ -32,6 +34,6 @@ My name is Sarah, and I'm an International Board Certified Lactation Consultant 
 
 ![Mother's hand with baby](../assets/images/mum-hand.png)
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
 
 [Get in touch →](../contact)
