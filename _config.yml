@@ -57,10 +57,11 @@ plugins:
 author:
   name   : "Sarah Cowperthwaite Lactation Consultant IBCLC"
   avatar : "/assets/images/logo.png"
-  bio    : "Breastfeeding help and infant feeding support, Salisbury, Wiltshire"
+  bio    : >-
+  Breastfeeding help and infant feeding support, Salisbury, Wiltshire
+  [SarahCowperthwaite@proton.me](SarahCowperthwaite@proton.me)
 
 footer:
-  links:
   links:
     - label: "WhatsApp"
       icon: "fas fa-fw fa-whatsapp"
