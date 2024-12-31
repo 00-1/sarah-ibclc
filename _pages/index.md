@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: ""
+header:
+  image: /assets/images/mum-hand.png
 ---
 
 ![Logo with text "Sarah Cowperthwaite IBCLC"](../assets/images/logo.png)

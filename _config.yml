@@ -116,7 +116,3 @@ defaults:
       layout: single
       author_profile: true
 
-# header
-header:
-  image: /assets/images/mum-hand.png
-
