@@ -63,8 +63,6 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Sarah Cowperthwaite Lactation Consultant IBCLC"
-  bio    : Breastfeeding help and infant feeding support, Salisbury, Wiltshire
   email: SarahCowperthwaite@proton.me
   links:
   - label: "WhatsApp"
@@ -102,6 +100,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+    sidebar:
+  - title: "Sarah Cowperthwaite Lactation Consultant IBCLC"
+    image: "/assets/images/logo.png"
+    image_alt: "Logo with text 'Sarah Cowperthwaite IBCLC"
+    text: "Breastfeeding help and infant feeding support, Salisbury, Wiltshire"
 
 
 

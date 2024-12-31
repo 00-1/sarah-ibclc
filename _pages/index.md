@@ -12,14 +12,6 @@ gallery:
     image_path: /assets/images/mum-seated.png
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-
-sidebar:
-  - title: "Title"
-    image: "/assets/images/logo.png"
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
