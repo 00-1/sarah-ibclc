@@ -1,6 +1,6 @@
 main:
   - title: "Home"
-    url: /home/
+    url: /
   - title: "What is an IBCLC"
     url: /what-is-an-ibclc/
   - title: "About"

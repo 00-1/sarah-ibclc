@@ -3,9 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-
-## ABOUT SARAH COWPERTHWAITE IBCLC
-
 When I support you and your child, you are the centre of the conversation, not me. I am the invisible (hands-off) hands, the listening ears, the admiring eyes. I work hard to ensure that me and my bag of tools are guided by you and your decisions, that I empower and inform so that, ultimately, you and your child are able to choose the right path for you, and feel safe and supported in doing so.
 
 ![Sarah holding mug of coffee](../assets/images/sarah.png)
