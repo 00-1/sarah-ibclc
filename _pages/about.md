@@ -8,6 +8,8 @@ title: "About"
 
 When I support you and your child, you are the centre of the conversation, not me. I am the invisible (hands-off) hands, the listening ears, the admiring eyes. I work hard to ensure that me and my bag of tools are guided by you and your decisions, that I empower and inform so that, ultimately, you and your child are able to choose the right path for you, and feel safe and supported in doing so.
 
+![Sarah holding mug of coffee](../assets/images/sarah.png)
+
 # Hello
 
 I'm Sarah, and I live in Salisbury, Wiltshire (though my Northern accent might say otherwise!) with my partner, our three children and our dog.
@@ -30,6 +32,6 @@ Now as an IBCLC, I look to combine these principles with a strong professional k
 
  
 
-I still have a huge drive to stay up to date, with [recent training](./training) including the UNICEF Baby-Friendly Initiative Breastfeeding and Relationship Building course, and I am still listening, still empowering, still informing, and still placing families at the heart of my care.
+I still have a huge drive to stay up to date, with [recent training](../training) including the UNICEF Baby-Friendly Initiative Breastfeeding and Relationship Building course, and I am still listening, still empowering, still informing, and still placing families at the heart of my care.
 
-[FIND OUT ABOUT THE SERVICES I OFFER >>>](./services)
+[FIND OUT ABOUT THE SERVICES I OFFER >>>](../services)
