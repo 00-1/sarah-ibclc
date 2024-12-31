@@ -5,6 +5,8 @@ title: ""
 
 ![Logo with text "Sarah Cowperthwaite IBCLC"](../assets/images/logo.png)
 
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
 # Hello
 
 ## ARE YOU LOOKING FOR BREASTFEEDING SUPPORT, CHESTFEEDING HELP, OR ASSISTANCE WITH INFANT FEEDING?

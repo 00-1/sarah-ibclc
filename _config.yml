@@ -20,6 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: contrast
+
+# search
 search: true
 search_full_content: true
 lunr:
@@ -113,3 +115,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+
+# galleries
+gallery:
+  - url: "/assets/images/mum-hand.png"
+    image_path: "/assets/images/mum-hand.png"
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: "/assets/images/mum-seated.png"
+    image_path: "/assets/images/mum-seated.png"
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
