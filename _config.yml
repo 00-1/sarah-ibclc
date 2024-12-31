@@ -98,23 +98,23 @@ footer:
 
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: home
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  # - scope:
+  #     path: ""
+  #     type: home
+  #   values:
+  #     layout: single
+  #     author_profile: false
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
   # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 sidebar:
   - title: "Title"

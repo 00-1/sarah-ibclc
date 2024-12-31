@@ -3,9 +3,16 @@ permalink: /
 title: ""
 # header:
 #   image: /assets/images/mum-hand.png
+gallery:
+  - url: /assets/images/mum-hand.png
+    image_path: /assets/images/mum-hand.png
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/mum-seated.png
+    image_path: /assets/images/mum-seated.png
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 ---
-
-![Logo with text "Sarah Cowperthwaite IBCLC"](../assets/images/logo.png)
 
 # Hello
 
@@ -16,5 +23,7 @@ My name is Sarah, and I'm an International Board Certified Lactation Consultant 
 ![Mother and baby seated](../assets/images/mum-seated.png)
 
 ![Mother's hand with baby](../assets/images/mum-hand.png)
+
+{% raw %}{% include gallery caption="This is a sample gallery with **Markdown support**." %}{% endraw %}
 
 [Get in touch →](../contact)
