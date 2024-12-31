@@ -3,32 +3,65 @@ permalink: /what-is-an-ibclc/
 title: "What is an IBCLC?"
 ---
 
-When I support you and your child, you are the centre of the conversation, not me. I am the invisible (hands-off) hands, the listening ears, the admiring eyes. I work hard to ensure that me and my bag of tools are guided by you and your decisions, that I empower and inform so that, ultimately, you and your child are able to choose the right path for you, and feel safe and supported in doing so.
-
-![Sarah holding mug of coffee](../assets/images/sarah.png)
-
-# Hello
-
-I'm Sarah, and I live in Salisbury, Wiltshire (though my Northern accent might say otherwise!) with my partner, our three children and our dog.
-
-​
-
-Our first son was born eight weeks and a day early and spent just shy of four weeks in our local Neonatal Unit. It was then that I learned how difficult, but rewarding, breastfeeding was for us and how different journeys can look from one family to the next, through choice or necessity, and how much good support made an impact.
-
-​
-
-I trained to be a local breastfeeding Peer Supporter, helping others in groups. Then I trained as a Peer Supporter with a national charity and then as a Breastfeeding Counsellor with them, welcoming our second son (our termie) in the middle of studying, after breastfeeding through pregnancy and going on to tandem feed. We recently welcomed our third son, with our first weaning through the pregnancy and our second and third enjoying their tandem journey together.
-
+### It takes a lot to be an International Board Certified Lactation Consultant.
  
+(1000 hours of lactation support experience, 90 hours of lactation education, 14 health sciences/registered healthcare professional, 4 hour exam, 75 hours continuing education to re-certify every 5 years..)
 
-It was through these years of training, volunteering, and responsive parenting that I really developed an understanding of the importance of family-centred support: listening, empowering, and informing. Taking a backseat and hearing what parents wanted to achieve, and helping them to build their unique relationships with their babies.
+### We're considered the 'gold standard', and support every kind of infant feeding journey.
 
-​
+But it's not really about us. It's about you.
 
-Now as an IBCLC, I look to combine these principles with a strong professional knowledge of lactation and infant feeding.
+IBCLCs are here for **you** and **your baby**.
 
- 
+Supporting you both as you figure out your way forward together, and cheering you on as you reach your goals, whatever they may be.
 
-I still have a huge drive to stay up to date, with [recent training](../training) including the UNICEF Baby-Friendly Initiative Breastfeeding and Relationship Building course, and I am still listening, still empowering, still informing, and still placing families at the heart of my care.
+![Mother and baby reclined](../assets/images/mum-reclined.png)
 
-[FIND OUT ABOUT THE SERVICES I OFFER >>>](../services)
+# HOW CAN AN IBCLC HELP?
+
+IBCLCs are skilled professionals. They can help with 'typical' challenges: cluster feeding; sleep; weaning; feeding in public for example; but they are able to help with more complex issues, including the following:
+
+- Low milk supply
+- Breastfeeding, chestfeeding after breast, chest surgery
+- Feeding premature, small or poorly babies
+- Slow weight gain
+- Preparing to feed your baby
+- Exclusive  pumping
+- Responsive bottle feeding
+- Relactation & induced lactation
+- Support with allergies / CMPA
+- Reducing top ups
+- Supporting feeding with tongue tie/tongue tie division
+- Mastitis / blocked ducts
+- Oversupply
+- Combination feeding
+- Tandem feeding
+- Feeding multiples
+- Breast, chest abscess
+- Ongoing pain when feeding
+- A newborn who can’t latch
+- Clamping / biting / arching
+- Feeding older babies
+- Reflux / GERD / GORD
+- Feeding through pregnancy, while you grow your baby
+- Weaning, winding down
+
+### FIND OUT MORE ABOUT WHAT AN IBCLC DOES
+IBCLCs demonstrate specialised
+knowledge and clinical expertise. We're certified by IBLCE®.
+Read about our Clinical Competencies here.
+
+[See PDF](https://iblce.org/wp-content/uploads/2018/12/clinical-competencies-2018.pdf)
+
+### THINK AN IBCLC MIGHT BE RIGHT FOR YOU?
+Get in touch with me and we can have an informal chat about the support that might suit you best
+
+:)
+
+[Contact](../contact)
+
+### It's important to know who is supporting you.
+
+You can [check whether the person supporting you is an IBCLC here](https://iblce.org/ibclc-credential-verification/).
+
+[See what families are saying about my support here >>>](../feedback)
