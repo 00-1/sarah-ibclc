@@ -7,7 +7,6 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
 
 @media (min-width: 64em) {
     .author__avatar img {
@@ -35,6 +34,7 @@ search: false
 h1, h2 {
     color: rgb(126, 175, 118);
     font-family: 'Roboto', sans-serif;
+    font-weight: 100;
 }
 
 .search__toggle {
@@ -49,7 +49,7 @@ h1, h2 {
     background: rgb(72, 100, 68);
 }
 
-.greedy-nav a, a:hover {
+.greedy-nav a, .greedy-nav a:hover {
     color:white;
 }
 
