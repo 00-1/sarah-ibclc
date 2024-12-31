@@ -6,6 +6,7 @@ title: "Frequently Asked Questions"
 Got a question that isn't on the list? [Please get in touch →](../contact)
 
 # 01/ What do I need to do in advance of my consultation?
+
 When you message me through my contact page, we will arrange a time that is convenient for our  consultation. Then I will send you a form to fill out and my payment details. The form is helpful for both of us as it gives me a good overview of what you're concerned about and you can also take the time to reflect on birth and your feeding journey so far.
 
 You may wish to video a feed or any behaviour you're concerned about before our consultation, just in case it doesn't happen during - we all know the nature of children!
@@ -13,6 +14,7 @@ You may wish to video a feed or any behaviour you're concerned about before our 
 Please do not worry about tidying your house or changing out of comfy clothes.
 
 # 02/ What does a consultation look like?
+
 Generally, consultations are made of three parts:
 
 1. a chat about how things are going and where you would like to be.
@@ -62,6 +64,7 @@ The Wiltshire Council website lists [free to access breastfeeding groups and oth
 Here in Salisbury, there is also the [South Wiltshire and Surrounds Breastfeeding Support](https://www.facebook.com/groups/440570457656516) group on Facebook, which has up to date information about local groups and virtual support.
 
 # 07/ Do you have gift vouchers?
+
 Yes! Please [contact me](../contact) and we can arrange some vouchers for you.
 
 [See what families are saying about my support here →](../feedback)
