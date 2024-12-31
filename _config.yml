@@ -100,11 +100,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-    sidebar:
-  - title: "Sarah Cowperthwaite Lactation Consultant IBCLC"
-    image: "/assets/images/logo.png"
-    image_alt: "Logo with text 'Sarah Cowperthwaite IBCLC"
-    text: "Breastfeeding help and infant feeding support, Salisbury, Wiltshire"
+  sidebar:
+    - title: "Sarah Cowperthwaite Lactation Consultant IBCLC"
+      image: "/assets/images/logo.png"
+      image_alt: "Logo with text 'Sarah Cowperthwaite IBCLC"
+      text: "Breastfeeding help and infant feeding support, Salisbury, Wiltshire"
 
 
 
