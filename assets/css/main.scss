@@ -49,6 +49,11 @@ h1, h2 {
     background: rgb(72, 100, 68);
 }
 
-.greedy-nav a {
+.greedy-nav a, a:hover {
     color:white;
+}
+
+.greedy-nav .hidden-links {
+    background: rgb(126, 175, 118);
+    border: 1px solid rgb(126, 175, 118);
 }
