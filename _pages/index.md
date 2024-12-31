@@ -12,6 +12,14 @@ gallery:
     image_path: /assets/images/mum-seated.png
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+
+sidebar:
+  - title: "Title"
+    image: "/assets/images/logo.png"
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
 ---
 
 # Hello
@@ -24,6 +32,6 @@ My name is Sarah, and I'm an International Board Certified Lactation Consultant 
 
 ![Mother's hand with baby](../assets/images/mum-hand.png)
 
-{% raw %}{% include gallery caption="This is a sample gallery with **Markdown support**." %}{% endraw %}
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 [Get in touch →](../contact)
