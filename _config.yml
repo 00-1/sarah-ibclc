@@ -21,6 +21,8 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: contrast
 search: true
+lunr:
+  search_within_pages: true
 
 # Build settings
 markdown: kramdown
