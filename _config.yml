@@ -58,34 +58,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+  name   : "Sarah Cowperthwaite Lactation Consultant IBCLC"
+  avatar : "/assets/images/bio-photo.png"
+  bio    : "Breastfeeding help and infant feeding support, Salisbury, Wiltshire"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+  links:
+    - label: "WhatsApp"
+      icon: "fas fa-fw fa-whatsapp"
+      url: "https://wa.me/447438172072"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/Sarah-Cowperthwaite-IBCLC-101959468590552"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/sarahibclc/"
+    - label: "Linkedin
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sarahcowperthwaite/"
 
 defaults:
   # _posts
