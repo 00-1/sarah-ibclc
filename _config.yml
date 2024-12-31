@@ -59,6 +59,19 @@ author:
   avatar : "/assets/images/logo.png"
   bio    : Breastfeeding help and infant feeding support, Salisbury, Wiltshire
   email: SarahCowperthwaite@proton.me
+  links:
+  - label: "WhatsApp"
+    icon: "fas fa-fw fa-whatsapp"
+    url: "https://wa.me/447438172072"
+  - label: "Facebook"
+    icon: "fab fa-fw fa-facebook"
+    url: "https://www.facebook.com/Sarah-Cowperthwaite-IBCLC-101959468590552"
+  - label: "Instagram"
+    icon: "fab fa-fw fa-instagram"
+    url: "https://www.instagram.com/sarahibclc/"
+  - label: "LinkedIn"
+    icon: "fab fa-fw fa-linkedin"
+    url: "https://www.linkedin.com/in/sarahcowperthwaite/"
 
 footer:
   links:
