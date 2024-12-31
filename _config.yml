@@ -61,7 +61,7 @@ author:
   email: SarahCowperthwaite@proton.me
   links:
   - label: "WhatsApp"
-    icon: "fas fa-fw fa-whatsapp"
+    icon: "fab fa-fw fa-whatsapp"
     url: "https://wa.me/447438172072"
   - label: "Facebook"
     icon: "fab fa-fw fa-facebook"
@@ -76,7 +76,7 @@ author:
 footer:
   links:
     - label: "WhatsApp"
-      icon: "fas fa-fw fa-whatsapp"
+      icon: "fab fa-fw fa-whatsapp"
       url: "https://wa.me/447438172072"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
