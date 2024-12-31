@@ -1,9 +1,15 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Home"
+    url: /home/
+  - title: "What is an IBCLC"
+    url: /what-is-an-ibclc/
   - title: "About"
     url: /about/
+  - title: "Services"
+    url: /services/
+  - title: "Feedback"
+    url: /feedback/
+  - title: "FAQ"
+    url: /faq/
+  - title: "contact"
+    url: /Contact/
