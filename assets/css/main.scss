@@ -44,3 +44,11 @@ h1, h2 {
 .navicon, .navicon::before, .navicon::after {
     background: white;
 }
+
+.greedy-nav .visible-links a:before {
+    background: rgb(72, 100, 68);
+}
+
+.greedy-nav a {
+    color:white;
+}
