@@ -36,3 +36,11 @@ h1, h2 {
     color: rgb(126, 175, 118);
     font-family: 'Roboto', sans-serif;
 }
+
+.search__toggle {
+    color: white;
+}
+
+.navicon, .navicon::before, .navicon::after {
+    background: white;
+}
