@@ -64,4 +64,4 @@ Get in touch with me and we can have an informal chat about the support that mig
 
 You can [check whether the person supporting you is an IBCLC here](https://iblce.org/ibclc-credential-verification/).
 
-[See what families are saying about my support here >>>](../feedback)
+[See what families are saying about my support here →](../feedback)

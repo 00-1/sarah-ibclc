@@ -31,4 +31,4 @@ Now as an IBCLC, I look to combine these principles with a strong professional k
 
 I still have a huge drive to stay up to date, with [recent training](../training) including the UNICEF Baby-Friendly Initiative Breastfeeding and Relationship Building course, and I am still listening, still empowering, still informing, and still placing families at the heart of my care.
 
-[FIND OUT ABOUT THE SERVICES I OFFER >>>](../services)
+[Find out about the services I offer →](../services)
