@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Hello"
 # header:
 #   image: /assets/images/mum-hand.png
 gallery:
@@ -13,7 +13,6 @@ gallery:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 ---
-# Hello
 
 ## ARE YOU LOOKING FOR BREASTFEEDING SUPPORT, CHESTFEEDING HELP, OR ASSISTANCE WITH INFANT FEEDING?
 

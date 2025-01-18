@@ -34,16 +34,17 @@ search: false
     width: auto;
 }
 
-h1, h2, a {
+h1, h2, a, .page__title a {
     color: rgb(126, 175, 118);
     font-family: 'Roboto', sans-serif;
-    font-weight: 100;
 }
+
 a:hover {
     color: rgb(72, 100, 68);
 }
 h1 {
     font-size: 2em;
+    font-weight: 100;
 }
 h2 {
     font-weight: 300;
