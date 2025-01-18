@@ -74,3 +74,19 @@ p {
     background: rgb(126, 175, 118);
     border: 1px solid rgb(126, 175, 118);
 }
+
+.feature__item {
+    text-align:center
+}
+
+@media (min-width: 37.5em) {
+    .feature__item {
+        width:48%;
+    }
+}
+
+@media (min-width: 37.5em) {
+    .feature__item:nth-child(3n+1) {
+        clear:none;
+    }
+}
