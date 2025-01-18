@@ -12,7 +12,7 @@ An IBCLC offers highly trained, quality feeding support. My fees reflect my expe
 
 [Find out more about what an IBCLC is here](../what-is-an-ibclc).
 
-### ANTENATAL SUPPORT
+## ANTENATAL SUPPORT
  
 Up to an hour of personalised support to help you prepare for your new baby/babies, with an additional 10% discount on your first postnatal consultation, to be used within the first six months of your baby arriving.
 
@@ -20,7 +20,7 @@ Up to an hour of personalised support to help you prepare for your new baby/babi
 
 **Video call - £45**
 
-### POSTNATAL SUPPORT
+## POSTNATAL SUPPORT
  
 Up to 1.5 hours of personalised support to help you with any breastfeeding, chestfeeding challenges or infant feeding issues. Includes two weeks ongoing email and/or text support and £10 discount on any follow ups. 
 
@@ -28,14 +28,14 @@ Up to 1.5 hours of personalised support to help you with any breastfeeding, ches
 
 **Video call - £55**
 
-### POSTNATAL PHONE CALL
+## POSTNATAL PHONE CALL
  
 30 minutes of chat in the comfort of your own home. Perfect for issues or concerns where a feeding observation is not essential to the consultation, eg. return to work, starting solids, introducing nursing manners.
 
 **Phone call - £30**
 
 
-### GROUP SESSIONS / VOUCHERS
+## GROUP SESSIONS / VOUCHERS
  
 Bespoke group packages available for common issues and concerns, eg. preparing to feed your baby, starting solids, night weaning, stopping or winding down feeding.
 

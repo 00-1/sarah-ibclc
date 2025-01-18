@@ -3,11 +3,11 @@ permalink: /what-is-an-ibclc/
 title: "What is an IBCLC?"
 ---
 
-### It takes a lot to be an International Board Certified Lactation Consultant.
+## It takes a lot to be an International Board Certified Lactation Consultant.
  
 (1000 hours of lactation support experience, 90 hours of lactation education, 14 health sciences/registered healthcare professional, 4 hour exam, 75 hours continuing education to re-certify every 5 years..)
 
-### We're considered the 'gold standard', and support every kind of infant feeding journey.
+## We're considered the 'gold standard', and support every kind of infant feeding journey.
 
 But it's not really about us. It's about you.
 
@@ -46,21 +46,21 @@ IBCLCs are skilled professionals. They can help with 'typical' challenges: clust
 - Feeding through pregnancy, while you grow your baby
 - Weaning, winding down
 
-### FIND OUT MORE ABOUT WHAT AN IBCLC DOES
+## FIND OUT MORE ABOUT WHAT AN IBCLC DOES
 IBCLCs demonstrate specialised
 knowledge and clinical expertise. We're certified by IBLCE®.
 Read about our Clinical Competencies here.
 
 [See PDF](https://iblce.org/wp-content/uploads/2018/12/clinical-competencies-2018.pdf)
 
-### THINK AN IBCLC MIGHT BE RIGHT FOR YOU?
+## THINK AN IBCLC MIGHT BE RIGHT FOR YOU?
 Get in touch with me and we can have an informal chat about the support that might suit you best
 
 :)
 
 [Contact](../contact)
 
-### It's important to know who is supporting you.
+## It's important to know who is supporting you.
 
 You can [check whether the person supporting you is an IBCLC here](https://iblce.org/ibclc-credential-verification/).
 
