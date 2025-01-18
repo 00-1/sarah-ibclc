@@ -14,7 +14,6 @@ feature_row:
         Up to 1.5 hours of personalised support to help you with any breastfeeding, chestfeeding challenges or infant feeding issues. Includes two weeks ongoing email and/or text support and £10 discount on any follow ups. 
 
         **Home visit - £80**
-feature_row2:
   - title: "POSTNATAL PHONE CALL"
     excerpt: | 
         30 minutes of chat in the comfort of your own home. Perfect for issues or concerns where a feeding observation is not essential to the consultation, eg. return to work, starting solids, introducing nursing manners.
@@ -39,6 +38,5 @@ An IBCLC offers highly trained, quality feeding support. My fees reflect my expe
 [Find out more about what an IBCLC is here](../what-is-an-ibclc).
 
 {% include feature_row type='left' %}
-{% include feature_row2 type='left' %}
 
 [See what families are saying about my support here →](../feedback)
