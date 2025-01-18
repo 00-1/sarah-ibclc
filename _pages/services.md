@@ -1,6 +1,22 @@
 ---
 permalink: /services/
 title: "Services I offer"
+feature_row:
+  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+
 ---
 
 My charges are fixed prices and include travel within 15 miles of Salisbury, Wiltshire. For locations further than 15 miles, I charge 90p/mile (there & back). 
@@ -11,6 +27,8 @@ Please use [my contact page to get in touch](../contact).
 An IBCLC offers highly trained, quality feeding support. My fees reflect my experience and knowledge and include preparation, travel and follow up time as well as ongoing business and training costs.
 
 [Find out more about what an IBCLC is here](../what-is-an-ibclc).
+
+{% include feature_row %}
 
 ## ANTENATAL SUPPORT
  
