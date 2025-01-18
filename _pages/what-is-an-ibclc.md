@@ -56,8 +56,6 @@ Read about our Clinical Competencies here.
 ## THINK AN IBCLC MIGHT BE RIGHT FOR YOU?
 Get in touch with me and we can have an informal chat about the support that might suit you best
 
-:)
-
 [Contact](../contact)
 
 ## It's important to know who is supporting you.
