@@ -25,7 +25,9 @@ feature_row:
 
         Gift vouchers also available.
 
-        **Please get in touch**
+    url: "./contact"
+    btn_label: "Please get in touch"
+    btn_class: "btn--inverse"
 ---
 
 My charges are fixed prices and include travel within 15 miles of Salisbury, Wiltshire. For locations further than 15 miles, I charge 90p/mile (there & back). 
