@@ -37,6 +37,6 @@ An IBCLC offers highly trained, quality feeding support. My fees reflect my expe
 
 [Find out more about what an IBCLC is here](../what-is-an-ibclc).
 
-{% include feature_row type='left' %}
+{% include feature_row %}
 
 [See what families are saying about my support here →](../feedback)
