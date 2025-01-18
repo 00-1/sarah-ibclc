@@ -2,10 +2,18 @@
 permalink: /services/
 title: "Services I offer"
 feature_row:
-  - title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - title: "ANTENATAL SUPPORT"
+    excerpt: | 
+        Up to an hour of personalised support to help you prepare for your new baby/babies, with an additional 10% discount on your first postnatal consultation, to be used within the first six months of your baby arriving.
+
+        **Home visit - £55**
+
+        **Video call - £45**
+  - title: "POSTNATAL SUPPORT"
+    excerpt: |
+        Up to 1.5 hours of personalised support to help you with any breastfeeding, chestfeeding challenges or infant feeding issues. Includes two weeks ongoing email and/or text support and £10 discount on any follow ups. 
+
+        **Home visit - £80**
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -21,7 +29,7 @@ An IBCLC offers highly trained, quality feeding support. My fees reflect my expe
 
 [Find out more about what an IBCLC is here](../what-is-an-ibclc).
 
-{% include feature_row %}
+{% include feature_row cebnter %}
 
 ## ANTENATAL SUPPORT
  
