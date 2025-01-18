@@ -24,8 +24,11 @@ search: false
 .author__avatar img {
     max-width: none;
 }
-.page__footer, .masthead, #site-nav {
+.masthead, #site-nav {
     background: rgb(126, 175, 118);
+}
+.page__footer {
+    background: rgb(72, 100, 68);
 }
 .sidebar img {
     width: auto;
@@ -36,9 +39,11 @@ h1, h2, .page__title a {
     font-family: 'Roboto', sans-serif;
     font-weight: 100;
 }
-
+h1 {
+    font-size: 2em;
+}
 h2 {
-    font-weight: 200; 
+    font-weight: 300;
 }
 
 .search__toggle {
