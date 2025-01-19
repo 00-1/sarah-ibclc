@@ -6,19 +6,21 @@ feature_row:
     excerpt: | 
         Up to an hour of personalised support to help you prepare for your new baby/babies, with an additional 10% discount on your first postnatal consultation, to be used within the first six months of your baby arriving.
 
-        **Home visit - £55**
+        **Home visit - £60**
 
-        **Video call - £45**
+        **Video call - £50**
   - title: "POSTNATAL SUPPORT"
     excerpt: |
         Up to 1.5 hours of personalised support to help you with any breastfeeding, chestfeeding challenges or infant feeding issues. Includes two weeks ongoing email and/or text support and £10 discount on any follow ups. 
 
-        **Home visit - £80**
+        **Home visit - £90**
+
+        **Video call - £65**
   - title: "POSTNATAL PHONE CALL"
     excerpt: | 
         30 minutes of chat in the comfort of your own home. Perfect for issues or concerns where a feeding observation is not essential to the consultation, eg. return to work, starting solids, introducing nursing manners.
 
-        **Phone call - £30**
+        **Phone call - £40**
   - title: "GROUP SESSIONS / VOUCHERS"
     excerpt: |
         Bespoke group packages available for common issues and concerns, eg. preparing to feed your baby, starting solids, night weaning, stopping or winding down feeding.
@@ -28,7 +30,7 @@ feature_row:
         [Please get in touch](../contact).
 ---
 
-My charges are fixed prices and include travel within 15 miles of Salisbury, Wiltshire. For locations further than 15 miles, I charge 90p/mile (there & back). 
+My charges are fixed prices and include travel within 15 miles of Salisbury, Wiltshire. For locations further than 15 miles, I charge £1/mile (£1 covers the mile there & back). 
 
 I am available for weekend and evening consultations in addition to weekdays. 
 Please use [my contact page to get in touch](../contact).
