@@ -1,29 +1,31 @@
 title: "Under Maintenance"
 description: "This site is currently under maintenance."
+minimal_mistakes_skin: contrast
 
-# disable theme features
 search: false
-paginate: 0
+search_full_content: false
 
-# basic build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+permalink: /
 
-# remove author / footer / extras
-author: {}
-footer: {}
+masthead_title: ""
 
-# only include pages folder
 include:
   - _pages
 
-# plugins
 plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jemoji
   - jekyll-include-cache
 
-# default layout
+author: {}
+footer: {}
+
 defaults:
   - scope:
       path: ""
     values:
       layout: single
+      author_profile: false
